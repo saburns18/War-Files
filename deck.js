@@ -1,5 +1,3 @@
-
-
 const SUITS = ['Hearts', 'Spades', 'Clubs', 'Diamonds'];
 const VALUES = ['Ace', 2, 3, 4, 5, 6, 7, 8, 9, 10, 'Jack', 'Queen', 'King'];
 let player1Deck = []; //put in player class
